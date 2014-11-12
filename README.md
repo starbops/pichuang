@@ -19,3 +19,14 @@ dada: 你是禽獸 <br />
 4. 科技生日禮物
 > 拉: 你覺得要送什麼生日禮物給妹子 <br />
 機: 送 Parallel Desktop, 超實用, 而且一年幫他 renew 一次, 之後每年都不用煩惱要送什麼
+
+5. 烤肉減肥法
+> shhu        減肥也能烤肉，不要吃就好XD <br />
+tacchen     飲料每朝健康，好吃不油膩XD <br />
+chengtc     烤肉就是減肥，肉都給你烤XD <br />
+tsuyi       生木炭加烤肉，減肥好輕鬆XD <br />
+kohy        你烤肉我們吃，不差這一次XD <br />
+yacwu       減肥不如簽博，簽了抵十斤XD <br />
+tsuhsiang   減肥烤肉簽博，飛機不上嗎XD <br />
+chiachunt   香腸肉片蛤蜊，好肉不烤嗎XD <br />
+chihhsin    不烤肉毋寧死，來來來哩來XD <br />
