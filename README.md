@@ -59,4 +59,7 @@ Jalen: 碩班4年，博班6年就可以集滿囉 <br />
 > 電影名: The Maze Runner <br />
 機式電影名: 妹子逃走中 <br />
 
-
+11. 考前研究報告
+> 考試前一個月是 < polynomial <br />
+考試前一個禮拜是 polynomial <br />
+考試前三天是 exponential <br />
