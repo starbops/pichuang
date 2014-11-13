@@ -63,3 +63,8 @@ Jalen: 碩班4年，博班6年就可以集滿囉 <br />
 > 考試前一個月是 < polynomial <br />
 考試前一個禮拜是 polynomial <br />
 考試前三天是 exponential <br />
+
+12. 另一條出路
+> darkx: 念研究所就會變得像 dada & z9 這樣  
+dada: 不念研究所就會變得像 darkx 這樣  
+yench: ......我還是簽博好了  
